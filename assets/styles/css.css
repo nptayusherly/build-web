@@ -139,31 +139,6 @@ span {
 	opacity: 0.4;
 }
 
-/* CSS untuk deskripsi slider, tapi gajadi isi */
-.slide .description {
-	position: absolute;			/* ubah jadi absolut biar keliatan */
-	top: 250px;
-	padding: 15px 30px;
-	text-align: center;
-	width: 100%;
-}
-
-.slide .description h2 {
-	color: white;
-	font-size: 45px;
-	text-transform: uppercase;
-	font-weight: 800;
-	letter-spacing: 2px;
-	z-index: 5;
-}
-
-.slide .description p {
-	color: white;
-	font: 16px;
-	width: 100%;
-}
-
-
 /* CSS untuk Manual Navigation Slide */
 .navigation-manual {
 	position: absolute;
