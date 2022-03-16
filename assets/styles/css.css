@@ -188,7 +188,7 @@ span {
 .navigation-auto div {
 	border: 2px solid #40D3DC;
 	padding: 5px;
-	border-radius: 5px;
+	border-radius: 10px;
 	transition: all 1s;
 }
 
